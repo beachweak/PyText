@@ -23,3 +23,5 @@
 
 - PyText can either be downloaded via the repository, or downloaded [here](https://github.com/vlri4/PyText/releases).
 
+- Python is required (obviously).
+
