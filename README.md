@@ -1,7 +1,7 @@
 # PyText
 ## Basic open-source Python text editor
 
-![image](https://user-images.githubusercontent.com/126778577/231009683-38a84532-65d8-48d5-81a3-b25b91307c10.png)
+![image](https://user-images.githubusercontent.com/126778577/231015655-81b050fe-56ef-42a2-8b8f-ed054535a636.png)
 
 ### What is PyText?
 
