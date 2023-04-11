@@ -21,6 +21,8 @@
 
 ### Download
 
+- WARNING: Some antivirus software may detect PyText as a false positive. You are welcome to read the code if you do not feel safe.
+
 - PyText can either be downloaded via the repository, or downloaded [here](https://github.com/vlri4/PyText/releases).
 
 - Python is required (obviously).
